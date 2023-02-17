@@ -1,1 +1,10 @@
 @import url('../fonts/font.scss');
+
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
